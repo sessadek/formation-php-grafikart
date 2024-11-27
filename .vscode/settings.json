@@ -1,0 +1,7 @@
+{
+    "phpunit.args": [],
+    "phpunit.phpunit": "Table/vendor/bin/phpunit",
+    "phpunit.paths": {
+        
+    }
+}

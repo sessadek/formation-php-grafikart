@@ -1,0 +1,15 @@
+{
+    "name": "altados/livre-or",
+    "autoload": {
+        "psr-4": {
+            "Altados\\LivreOr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sessadek",
+            "email": "salim.essadek@niji.fr"
+        }
+    ],
+    "require": {}
+}

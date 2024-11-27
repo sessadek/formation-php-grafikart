@@ -1,0 +1,25 @@
+{
+    "name": "altados/blog",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": ["src/helpers.php"]
+    },
+    "authors": [
+        {
+            "name": "sessadek",
+            "email": "salim.essadek@niji.fr"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "vlucas/valitron": "^1.4"
+        
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^7.1",
+        "filp/whoops": "^2.16",
+        "fakerphp/faker": "^1.23"
+    }
+}
